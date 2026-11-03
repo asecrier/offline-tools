@@ -46,9 +46,9 @@ Small offline tools (run in the browser or on Windows; files never leave your co
 | [Etsy Listing Match](products/etsy-listing-match) | check your ZIP against your listing (offline) | $7 | [Gumroad](https://asecrier.gumroad.com/l/bjugmd) · [site](https://offline-tools-hub.asecrier.workers.dev/p/etsy-listing-match) |
 | [Update Pack Builder](products/update-pack-builder) | ship a new edition without old files in the ZIP (offline) | $9 | [Gumroad](https://asecrier.gumroad.com/l/yzgla) · [site](https://offline-tools-hub.asecrier.workers.dev/p/update-pack-builder) |
 
-## Guides (PDF, also on Scribd)
+## Guides (PDF, also on Scribd and dev.to)
 
-- [Why Excel Breaks Your CSV Files: A Practical Checklist](guides/excel-csv-problems-checklist.pdf) — [Scribd](https://www.scribd.com/document/1093072212) · [site](https://offline-tools-hub.asecrier.workers.dev/guides/excel-csv-problems-checklist)
+- [Why Excel Breaks Your CSV Files: A Practical Checklist](guides/excel-csv-problems-checklist.pdf) — [Scribd](https://www.scribd.com/document/1093072212) · [site](https://offline-tools-hub.asecrier.workers.dev/guides/excel-csv-problems-checklist) · [dev.to](https://dev.to/sasha_secrier_959eede12e3/why-excel-breaks-your-csv-files-a-practical-checklist-1n7n)
 - [Etsy Digital Downloads: A File Checklist Before You Publish](guides/etsy-digital-download-file-checklist.pdf) — [Scribd](https://www.scribd.com/document/1093072464) · [site](https://offline-tools-hub.asecrier.workers.dev/guides/etsy-digital-download-file-checklist)
 - [Managing Client Feedback on Video Edits](guides/video-client-feedback-workflow.pdf) — [Scribd](https://www.scribd.com/document/1093072619) · [site](https://offline-tools-hub.asecrier.workers.dev/guides/video-client-feedback-workflow)
 - [Making Printable Worksheets and Test Variants Without Surprises](guides/teacher-worksheets-and-tests-guide.pdf) — [Scribd](https://www.scribd.com/document/1093072701) · [site](https://offline-tools-hub.asecrier.workers.dev/guides/teacher-worksheets-and-tests-guide)
